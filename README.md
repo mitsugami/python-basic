@@ -10,7 +10,14 @@
 - [第5回](https://github.com/mitsugami/python-basic/blob/main/practice05.ipynb) 関数
 - [第6回](https://github.com/mitsugami/python-basic/blob/main/practice06.ipynb) ファイル操作
 
----
+
+
+## 更新情報
+
+- 2022/09/30: ページを開設しました．
+
+
+
 ## 連絡先
 
 この教材に関するお問合せ（誤りの指摘など）は，以下までお願いします．
