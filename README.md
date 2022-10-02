@@ -24,4 +24,5 @@
 
 広島市立大学 情報科学部 システム工学科<br>
 教授  満上育久<br>
-mitsugami@hiroshima-cu.ac.jp
+[Mail] mitsugami@hiroshima-cu.ac.jp<br>
+[Web] http://www.sys.info.hiroshima-cu.ac.jp/
