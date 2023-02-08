@@ -3,6 +3,15 @@
 広島市立大学情報科学部提供の「Python基礎」の各回の講義に対応したノートブックです．
 講義を視聴しながら動作を確認したり，講義視聴後に理解を深めたりにご活用ください．
 
+| 回 |  内容  |  講義補足  |  演習  |
+| ---- | ---- | ---- |
+| 第1回 | Pythonの基本  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice01.ipynb) |  TD  |
+| 第2回 | 型と演算  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice02.ipynb) |  TD  |
+| 第3回 | 制御構文  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice03.ipynb) |  TD  |
+| 第4回 | データ構造  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice04.ipynb) |  TD  |
+| 第5回 | 関数  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice05.ipynb) |  TD  |
+| 第6回 | ファイル操作  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice06.ipynb) |  TD  |
+
 - [演習1](https://github.com/mitsugami/python-basic/blob/main/practice01.ipynb) （第1回：Pythonの基本）
 - [演習2](https://github.com/mitsugami/python-basic/blob/main/practice02.ipynb) （第2回：型と演算）
 - [演習3](https://github.com/mitsugami/python-basic/blob/main/practice03.ipynb) （第3回：制御構文）
