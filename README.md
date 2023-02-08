@@ -6,11 +6,11 @@
 | 回 | 内容 | VoD講義動画補足 | Live授業用演習課題  |
 | ---- | ---- | ---- | ---- |
 | 第1回 | Pythonの基本  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice01.ipynb) | |
-| 第2回 | 型と演算  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice02.ipynb) | [演習1](https://github.com/mitsugami/python-basic/blob/main/exercise01.ipynb) |
-| 第3回 | 制御構文  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice03.ipynb) | [演習2](https://github.com/mitsugami/python-basic/blob/main/exercise02.ipynb) |
-| 第4回 | データ構造  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice04.ipynb) | [演習3](https://github.com/mitsugami/python-basic/blob/main/exercise03.ipynb) |
-| 第5回 | 関数  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice05.ipynb) | [演習4](https://github.com/mitsugami/python-basic/blob/main/exercise04.ipynb) |
-| 第6回 | ファイル操作  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice06.ipynb) | [演習5](https://github.com/mitsugami/python-basic/blob/main/exercise05.ipynb) |
+| 第2回 | 型と演算  | [講義補足2](https://github.com/mitsugami/python-basic/blob/main/practice02.ipynb) | [演習1](https://github.com/mitsugami/python-basic/blob/main/exercise01.ipynb) |
+| 第3回 | 制御構文  | [講義補足3](https://github.com/mitsugami/python-basic/blob/main/practice03.ipynb) | [演習2](https://github.com/mitsugami/python-basic/blob/main/exercise02.ipynb) |
+| 第4回 | データ構造  | [講義補足4](https://github.com/mitsugami/python-basic/blob/main/practice04.ipynb) | [演習3](https://github.com/mitsugami/python-basic/blob/main/exercise03.ipynb) |
+| 第5回 | 関数  | [講義補足5](https://github.com/mitsugami/python-basic/blob/main/practice05.ipynb) | [演習4](https://github.com/mitsugami/python-basic/blob/main/exercise04.ipynb) |
+| 第6回 | ファイル操作  | [講義補足6](https://github.com/mitsugami/python-basic/blob/main/practice06.ipynb) | [演習5](https://github.com/mitsugami/python-basic/blob/main/exercise05.ipynb) |
 
 
 ## 更新情報
