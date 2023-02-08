@@ -4,7 +4,7 @@
 講義を視聴しながら動作を確認したり，講義視聴後に理解を深めたりにご活用ください．
 
 | 回 |  内容  |  講義補足  |  演習  |
-| ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | 第1回 | Pythonの基本  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice01.ipynb) |  TD  |
 | 第2回 | 型と演算  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice02.ipynb) |  TD  |
 | 第3回 | 制御構文  | [講義補足1](https://github.com/mitsugami/python-basic/blob/main/practice03.ipynb) |  TD  |
