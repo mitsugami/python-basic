@@ -24,7 +24,7 @@
 
 この教材に関するお問合せ（誤りの指摘など）は，以下までお願いします．
 
-広島市立大学 情報科学部 システム工学科<br>
+立命館大学 情報理工学部<br>
 満上育久 (Ikuhisa Mitsugami)<br>
-[Mail] mitsugami@hiroshima-cu.ac.jp<br>
-[Web] http://www.sys.info.hiroshima-cu.ac.jp/
+[Mail] mitugami@fc.ritsumei.ac.jp<br>
+[Web] https://www.cvl.ise.ritsumei.ac.jp/
